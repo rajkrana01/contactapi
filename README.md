@@ -26,5 +26,5 @@ This project is a RESTful API built using .NET Core to manage contact informatio
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/contacts-management-api.git
+git clone https://github.com/rajkrana01/contactapi.git
 cd contacts-management-api
