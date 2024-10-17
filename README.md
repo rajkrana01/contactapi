@@ -28,3 +28,6 @@ This project is a RESTful API built using .NET Core to manage contact informatio
 ```bash
 git clone https://github.com/rajkrana01/contactapi.git
 cd contacts-api
+dotnet run
+
+This will start the API, and it should be accessible http://localhost:5001
